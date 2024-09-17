@@ -27,14 +27,14 @@ Documentations:
 
 Documentations:
 
-- [Neural network 1]([https://ml4a.github.io/ml4a/](https://ml4a.github.io/ml4a/))
+- [Neural network 1](https://ml4a.github.io/ml4a/)
 
-- [Neural network 2]([https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.21569&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.21569&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false))
+- [Neural network 2](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle®Dataset=reg-plane&learningRate=0.03®ularizationRate=0&noise=0&networkShape=4,2&seed=0.21569&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 - [deep learning](https://nttuan8.com/gioi-thieu-ve-deep-learning/)
 
 Videos:
 
-- [Deep learning 1]([https://youtu.be/i3ieWk3Qmu8](https://youtu.be/i3ieWk3Qmu8))
+- [Deep learning 1](https://youtu.be/i3ieWk3Qmu8)
 
-- [Deep learning 2]([https://youtu.be/wswSfNSY7Ys](https://youtu.be/wswSfNSY7Ys))
+- [Deep learning 2](https://youtu.be/wswSfNSY7Ys)
