@@ -21,12 +21,13 @@ In addition, you will be guided on how to research scientific documents and team
 **Training roadmap:**
 You will be trained within *3 months - 12 weeks* to get acquainted and grasp basic knowledge about Network, Linux & AI
 
-| Week | Trainning Content                    | Documentation                            | Notes |
-| ---- | ------------------------------------ | ---------------------------------------- | ----- |
-| 0-2  | Linux & Network                      | [[Linux & Network]]                      |       |
-| 3    | Python & Socket                      | [[Python & Socket]]                      |       |
-| 4-11 | AI - Machine Learning, Deep Learning | [[AI - Machine Learning, Deep Learning]] |       |
-| 12   | Personal project + Report            |                                          |       |
+| Week | Trainning Content                    | Documentation                                                                              | Notes |
+| ---- | ------------------------------------ | ------------------------------------------------------------------------------------------ | ----- |
+| 0-2  | Linux & Network                      | [Linux & Network](/Linux%20&%20Network.md)                                                 |       |
+| 3    | Python & Socket                      | [Python & Socket](/Python%20&%20Socket.md)                                                 |       |
+| 4-11 | AI - Machine Learning, Deep Learning | [AI - Machine Learning, Deep Learning](/AI%20-%20Machine%20Learning,%20Deep%20Learning.md) |       |
+| 12   | Personal project + Report            |                                                                                            |       |
+
 For every training week, you are **required to prepare slides** reporting your research progress!
 
 ----
