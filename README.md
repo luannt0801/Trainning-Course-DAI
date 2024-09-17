@@ -1,6 +1,6 @@
 ![FIL](/image/FIl.png)
 
-Welcome to the Distributed AI Group in the FIL Research Group, ANSA Laboratory at E711-C7, Hanoi University of Science and Technology.
+Welcome to the Distributed AI Team in the FIL Research Group, ANSA Laboratory at E711-C7, Hanoi University of Science and Technology.
 
 The primary focus of our research group is exploring optimal solutions for training distributed machine learning and deep learning models within edge-cloud computing environments and IoT systems. We also investigate the application of AI in addressing network security challenges.
 
