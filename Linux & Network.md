@@ -8,12 +8,19 @@ Requirements: Grasp an overview of computer networks, use and understand some ba
 
 
 Documentations:
+
 -[Computer network slide]([https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EgmaaenpZhhFqCkxKHXWcKAB7oaxUGGHXOJhmmJv7wwFBw?e=VvP0rF](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EgmaaenpZhhFqCkxKHXWcKAB7oaxUGGHXOJhmmJv7wwFBw?e=VvP0rF))
+
 -[CCNA Course](https://github.com/luannt0801/CCNA_Course.git)
+
 Videos:
 -[Introduction to Linux]([https://www.youtube.com/watch?v=IVquJh3DXUA](https://www.youtube.com/watch?v=IVquJh3DXUA))
+
 -[Command in Linux]([https://www.youtube.com/playlist?list=PLS8J_PRPtGffc6egZZjr1dKK6tc4uTb9p](https://www.youtube.com/playlist?list=PLS8J_PRPtGffc6egZZjr1dKK6tc4uTb9p))
+
 Labs:
+
 -[Computer Network]([https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EujgEN_yx2dCq3jELQxrF8MBRjYlvTmzXr7x549mj43ZYw?e=dbXCiq](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EujgEN_yx2dCq3jELQxrF8MBRjYlvTmzXr7x549mj43ZYw?e=dbXCiq))
+
 -[Lab Linux](https://ecs-network.serv.pacific.edu/ecpe-170/lab/)
 
