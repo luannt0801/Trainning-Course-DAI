@@ -11,9 +11,9 @@ Requirements: Understand the concepts of Machine Learning and Deep Learning. Pra
 
 Documentations:
 
-- [machine learning]([https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiKMfaTzQIpJt6LCaNvMP3sB-9DeTYOMBFgyryzPL-P8Hg?e=Lqyfbe](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiKMfaTzQIpJt6LCaNvMP3sB-9DeTYOMBFgyryzPL-P8Hg?e=Lqyfbe))
+- [machine learning](https://husteduvn-my.sharepoint.com/:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiKMfaTzQIpJt6LCaNvMP3sBium1VMbixBhmwVnvBxjagg?e=NmWbOc)
 
-- [reference]([https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiI50CaE_MNGpsaChrASTLgBFNkeBpEJBuv7e9X761JQQA?e=zAIuo8](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiI50CaE_MNGpsaChrASTLgBFNkeBpEJBuv7e9X761JQQA?e=zAIuo8))
+- [reference](https://husteduvn-my.sharepoint.com/:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiI50CaE_MNGpsaChrASTLgB-w8IQsSf6nhT2h0PzIhoFQ?e=flubiq)
 
 2. **Deep Learning**
 

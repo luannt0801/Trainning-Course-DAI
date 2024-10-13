@@ -34,3 +34,5 @@ For every training week, you are **required to prepare slides** reporting your r
 WELCOME ABOARD!!!
 
 ![Pasted image 20240918024409.png](/image/Pasted%20image%2020240918024409.png)
+
+
