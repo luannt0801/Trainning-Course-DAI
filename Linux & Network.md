@@ -19,6 +19,8 @@ Videos:
 
 -[Command in Linux](https://www.youtube.com/playlist?list=PLS8J_PRPtGffc6egZZjr1dKK6tc4uTb9p)
 
+- [Network Overview](https://www.youtube.com/watch?v=sMHzfigUxz4)
+
 Labs:
 
 -[Computer Network](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EujgEN_yx2dCq3jELQxrF8MBRjYlvTmzXr7x549mj43ZYw?e=dbXCiq)
