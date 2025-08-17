@@ -9,7 +9,7 @@ Requirements: Grasp an overview of computer networks, use and understand some ba
 
 Documentations:
 
--[Computer network slide](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EgmaaenpZhhFqCkxKHXWcKAB7oaxUGGHXOJhmmJv7wwFBw?e=VvP0rF)
+-[Computer network slide](https://drive.google.com/drive/folders/1nxWxOu2NKRcrtPujfvcLnkVgGtkJhOdB)
 
 -[CCNA Course](https://github.com/luannt0801/CCNA_Course.git)
 
