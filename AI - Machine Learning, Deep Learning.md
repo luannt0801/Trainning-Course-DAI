@@ -13,7 +13,7 @@ Documentations:
 
 - [machine learning](Slides/ML_Slides/)
 
-- [reference](https://husteduvn-my.sharepoint.com/:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiI50CaE_MNGpsaChrASTLgB-w8IQsSf6nhT2h0PzIhoFQ?e=flubiq)
+- [reference](Coding/Labs/)
 
 2. **Deep Learning**
 
