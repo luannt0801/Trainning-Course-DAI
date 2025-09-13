@@ -11,7 +11,7 @@ Requirements: Understand the concepts of Machine Learning and Deep Learning. Pra
 
 Documentations:
 
-- [machine learning](https://husteduvn-my.sharepoint.com/:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiKMfaTzQIpJt6LCaNvMP3sBium1VMbixBhmwVnvBxjagg?e=NmWbOc)
+- [machine learning](Slides/ML_Slides/)
 
 - [reference](https://husteduvn-my.sharepoint.com/:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EiI50CaE_MNGpsaChrASTLgB-w8IQsSf6nhT2h0PzIhoFQ?e=flubiq)
 
