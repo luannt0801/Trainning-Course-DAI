@@ -11,9 +11,9 @@ Requirements: Understand the concepts of Machine Learning and Deep Learning. Pra
 
 Documentations:
 
-- [machine learning](Slides/ML_Slides/)
+- [machine learning.](Slides/ML_Slides/)
 
-- [reference](Coding/Labs/)
+- [coding exercise.](Coding/Labs/)
 
 2. **Deep Learning**
 
