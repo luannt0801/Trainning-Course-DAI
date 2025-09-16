@@ -11,8 +11,6 @@ Documentations:
 
 -[Computer network slide](https://drive.google.com/drive/folders/1nxWxOu2NKRcrtPujfvcLnkVgGtkJhOdB)
 
--[CCNA Course](https://github.com/luannt0801/CCNA_Course.git)
-
 Videos:
 
 -[Introduction to Linux](https://www.youtube.com/watch?v=IVquJh3DXUA)
