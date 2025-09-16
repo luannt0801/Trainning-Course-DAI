@@ -4,7 +4,7 @@ Requirements: Grasp an overview of computer networks, use and understand some ba
 | ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | 0    | Overview of computer networks, OSI model, TCP/IP, LAN, Hub-bridge, switch, router | -Create 2 Ubuntu virtual machines.<br>-Learn linux commands (basic commands like create file, cp, mv,...) network configuration check commands (ifconfig, ip a), (ip route), netstat, nmap                                |       |
 | 1    | TCP/UDP protocol, flow control, congestion control                                | - SSH connection, SCP (group to group) data transfer between 2 machines.<br>- Set static IP addresses for 2 virtual machines (using 2 methods: manual and terminal)) as 192.168.15.100 and 192.168.15.101 on each machine |       |
-| 2    | Auxiliary protocols: DNS, NAT, DHCP, HTTP, FTP                                    | - Practice the content of the lab on Computer networks<br>- Lab 1.1<br>- Lab 2.1<br>- Lab 2.2                                                                                                                             |       |
+| 2    | Auxiliary protocols: DNS, NAT, DHCP, HTTP, FTP                                    | - Practice the content of the lab on Computer networks<br>- Lab Linux                                                                                                                             |       |
 
 
 Documentations:
@@ -21,7 +21,7 @@ Videos:
 
 Labs:
 
--[Computer Network](https://husteduvn-my.sharepoint.com/personal/luan_nt200375_sis_hust_edu_vn/Documents/../../../:f:/g/personal/luan_nt200375_sis_hust_edu_vn/EujgEN_yx2dCq3jELQxrF8MBRjYlvTmzXr7x549mj43ZYw?e=dbXCiq)
+-[Computer Network](https://staff.hnue.edu.vn/Portals/0/TeachingSubject/haind/0f5a158b-f011-4e12-9deb-d453034a1769Bai-tap-thuc-hanh-mang.pdf)
 
--[Lab Linux](https://ecs-network.serv.pacific.edu/ecpe-170/lab/)
+-[Lab Linux](https://youtu.be/g4LCHu9eFW4?si=kISZUQGLqIZjHnbS)
 
